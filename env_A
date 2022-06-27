@@ -1,7 +1,7 @@
 #General
-NSO_USERNAME = admin
-NSO_PASSWORD = Pldt#123
-NSO_PASSWORD1 = Cksp2019
+NSO_USERNAME = 
+NSO_PASSWORD = 
+NSO_PASSWORD1 = 
 NSO_URL = http://127.0.0.1:8080
 
 #Disable Allocation
